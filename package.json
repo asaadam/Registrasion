@@ -8,8 +8,17 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "babel-runtime": "^6.26.0",
+    "buefy": "^0.7.2",
+    "firebase": "^5.8.1",
+    "joi": "^14.3.1",
+    "node-sass": "^4.11.0",
     "vue": "^2.5.21",
+    "vue-instant-pdf-viewer": "^1.0.2",
+    "vue-pdf": "^4.0.6",
     "vue-router": "^3.0.1",
+    "vuetify": "^1.4.4",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
@@ -20,6 +29,7 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
+    "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.5.21"
   },
   "eslintConfig": {

@@ -1,29 +1,15 @@
-# registrasi
+**TODO 
 
-## Project setup
-```
-yarn install
-```
+* [ ]Setup Landing page
+    *[ ]Setup Login Component
+    *[ ]Set login component to backend api siam 
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+*[ ]Setup User Page 
+    *[ ]Setup lembaga component 
+    *[ ]Setup form regist
+    *[ ]Add form to database firestore  
+    *[ ]Binding form to backend
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+*[ ]Setup dashboard admin page 
+    *[ ]show all registrant
+    *[ ]show spesific registrant
